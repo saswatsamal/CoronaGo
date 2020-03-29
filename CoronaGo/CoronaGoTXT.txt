@@ -1,0 +1,3 @@
+This app is about the realtime updates from Ministry of Health & Family Welfare (India) and WHO's Twitter feed and their website.
+This app helps you to get all the recent news, updates and announcements at a single place. You'll not require to switch multiple accounts or apps to know the current status of this pandemic.
+This app has been developed by Saswat Samal of PIYSocial. 
