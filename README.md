@@ -1,7 +1,7 @@
 <h1> Corona Cirus (COVID19) </h1>
 
 [![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://piysocial.weebly.com)       
-[![h2](https://piysocial.weebly.com/badge/license/MIT/green)](https://piysocial.weebly.com)
+[![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 
@@ -34,5 +34,5 @@ CoronaGo helps you to get all the updates, information & data from the Officials
 
 <h3> Download the App. </h3>
 
-[![h2](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
+[![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
       
