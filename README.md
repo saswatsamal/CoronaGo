@@ -32,6 +32,12 @@ CoronaGo helps you to get all the updates, information & data from the Officials
 
 • Light and Free to Download.
 
+<strong> Screenshots </strong>
+
+<img src="images/Screenshot_2020-03-28-22-20-34-475_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-04-188_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-23-524_covid19india.piysocial.weebly.com-01.jpeg" height=300>
+
+<img src="images/Screenshot_2020-03-28-22-21-34-251_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-45-163_covid19india.piysocial.weebly.com-01.jpeg" height=300>    <img src="images/Screenshot_2020-03-28-22-21-55-737_covid19india.piysocial.weebly.com-01.jpeg" height=300>
+
 <h3> Download the App. </h3>
 
 [![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
