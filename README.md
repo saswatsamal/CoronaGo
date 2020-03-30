@@ -1,7 +1,8 @@
 <h1> Corona Cirus (COVID19) </h1>
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
-[![h](https://badgen.net/badge/license/MIT/lodash)](https://forthebadge.com)
+[![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+
+[![h2](https://badgen.net/badge/license/MIT/greeb)](https://forthebadge.com)
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 
