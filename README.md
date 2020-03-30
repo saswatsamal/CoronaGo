@@ -2,7 +2,7 @@
 
 [![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
-[![h2](https://badgen.net/badge/license/MIT/greeb)](https://forthebadge.com)
+[![h2](https://badgen.net/badge/license/MIT/green)](https://forthebadge.com)
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 
