@@ -1,8 +1,8 @@
 <h1> Corona Cirus (COVID19) </h1>
 
 [![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://piysocial.weebly.com)       
-[![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)
-
+[![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)  [![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
+ 
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 
 Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
@@ -34,9 +34,17 @@ CoronaGo helps you to get all the updates, information & data from the Officials
 
 <strong> Screenshots </strong>
 
-<img src="images/Screenshot_2020-03-28-22-20-34-475_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-04-188_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-23-524_covid19india.piysocial.weebly.com-01.jpeg" height=300>
+<img src="images/Screenshot_2020-04-01-20-33-44-823_coronago.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-04-188_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-23-524_covid19india.piysocial.weebly.com-01.jpeg" height=300>
 
 <img src="images/Screenshot_2020-03-28-22-21-34-251_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-45-163_covid19india.piysocial.weebly.com-01.jpeg" height=300>    <img src="images/Screenshot_2020-03-28-22-21-55-737_covid19india.piysocial.weebly.com-01.jpeg" height=300>
+
+Game Section
+
+<img src="images/Screenshot_2020-04-01-20-33-36-225_coronago.piysocial.weebly.com-01.jpeg" height=300> <img src="images/Screenshot_2020-04-01-20-33-40-401_coronago.piysocial.weebly.com-01.jpeg" height=300>
+
+#### What's new 
+###### Updated to Version 1.1.0 (dtd 30 March, 2020)
+Game Section is added to kill the boredom of this quarantine! 
 
 <h3> Download the App. </h3>
 
