@@ -1,7 +1,7 @@
 <h1> Corona Cirus (COVID19) </h1>
 
 [![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://piysocial.weebly.com)       
-[![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)  [![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk)
+[![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)  [![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk) [![h4](https://badgen.net/badge/BuiltFor/India/orange)](https://piysocial.weebly.com)
  
 Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
 
@@ -22,6 +22,8 @@ CoronaGo helps you to get all the updates, information & data from the Officials
 
 <strong> Features of the App </strong>
 
+• Displays the realtime data of World and India.
+
 • Supports to all Android devices above Android 5.0.
 
 • A very cool and dark UI.
@@ -33,18 +35,26 @@ CoronaGo helps you to get all the updates, information & data from the Officials
 • Light and Free to Download.
 
 <strong> Screenshots </strong>
+###### Stats of COVID19 of World and India
+<img src="images/Screenshot_2020-04-11-21-07-39-543_coronago.piysocial.weebly.com-01.jpeg" height=300> 
+
+###### App Layout Screenshots
 
 <img src="images/Screenshot_2020-04-01-20-33-44-823_coronago.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-04-188_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-23-524_covid19india.piysocial.weebly.com-01.jpeg" height=300>
 
 <img src="images/Screenshot_2020-03-28-22-21-34-251_covid19india.piysocial.weebly.com-01.jpeg" height=300>  <img src="images/Screenshot_2020-03-28-22-21-45-163_covid19india.piysocial.weebly.com-01.jpeg" height=300>    <img src="images/Screenshot_2020-03-28-22-21-55-737_covid19india.piysocial.weebly.com-01.jpeg" height=300>
 
-Game Section
+###### Game Section
 
 <img src="images/Screenshot_2020-04-01-20-33-36-225_coronago.piysocial.weebly.com-01.jpeg" height=300> <img src="images/Screenshot_2020-04-01-20-33-40-401_coronago.piysocial.weebly.com-01.jpeg" height=300>
 
+
 #### What's new 
+###### Updated to Version 2.1.0 (dtd 11 April, 2020)
+- Stats section is added where the COVID19 Stats of World and India is displayed.
+- Notification added which will notify the users regarding the recent updates and news by Indian Govt and World.
 ###### Updated to Version 1.1.0 (dtd 30 March, 2020)
-Game Section is added to kill the boredom of this quarantine! 
+- Game Section is added to kill the boredom of this quarantine! 
 
 <h3> Download the App. </h3>
 
