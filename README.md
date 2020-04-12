@@ -1,4 +1,4 @@
-<h1> Corona Virus (COVID19) </h1>
+<img src="images/CoronaGoIcon.png" height=100><h1> Corona Virus (COVID19) </h1>
 
 [![h1](https://forthebadge.com/images/badges/built-for-android.svg)](https://piysocial.weebly.com)       
 [![h2](https://badgen.net/badge/License/MIT/green)](https://piysocial.weebly.com)  [![h3](https://badgen.net/badge/Download/CoronaGo/red)](https://github.com/saswatsamal/CoronaGo/raw/master/CoronaGo/CoronaGo.apk) [![h4](https://badgen.net/badge/BuiltFor/India/orange)](https://piysocial.weebly.com)
